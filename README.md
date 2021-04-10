@@ -3,4 +3,5 @@
 
 Emoji here 👍
 
-[Github Stats]
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabohat)
+
