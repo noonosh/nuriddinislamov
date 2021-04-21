@@ -3,5 +3,5 @@
 
 Emoji here 👍
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabohat)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nuriddinislamov)
 
