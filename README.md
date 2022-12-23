@@ -12,5 +12,5 @@
 
 
 ### Links
-- <a href='https://nuriddinislamov.com' target='_blank'>Website</a>
-- <a href='https://linkedin.com/in/nuriddinislamov' target='_blank'>LinkedIn</a>
+- <a href="https://nuriddinislamov.com" target="_blank">Website</a>
+- <a href="https://linkedin.com/in/nuriddinislamov" target="_blank">LinkedIn</a>
