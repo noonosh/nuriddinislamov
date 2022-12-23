@@ -1,6 +1,6 @@
 # 🤞 Hey, I am Nuriddin!
 
-Software Engineer from UK building for the world. I am passionate about interactive web and mobile applications. Open to new connections, so feel free to drop me an email at nuriddinislamov@icloud.com
+Software Engineer from UK building for the world. I am passionate about interactive web and mobile applications. I love reading, growing and exploring, and if this sounds something like you, then please feel free to drop me an email at nuriddinislamov@icloud.com and we can find something to chat about!
 
 ### Stats
 
